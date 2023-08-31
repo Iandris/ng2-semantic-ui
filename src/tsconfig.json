@@ -12,6 +12,7 @@
     "experimentalDecorators": true,
     "strictNullChecks": true,
     "importHelpers": true,
+    "preserveSymlinks": true,
     "types": [],
     "lib": [
       "dom",
